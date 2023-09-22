@@ -1,4 +1,4 @@
-# Personal Website - Your Name
+# Personal Website - with blog and projects.
 
 ![Website Preview](/public/website.png)
 
